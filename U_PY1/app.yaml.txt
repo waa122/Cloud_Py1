@@ -1,0 +1,8 @@
+application:  U_PY1
+version:  1
+runtime:  python
+api_version:  1
+
+handlers:
+ -  url:  /.*
+    script:  index01.py
